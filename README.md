@@ -61,7 +61,7 @@ The application includes several measures to protect users and admin accounts:
 - ** Admin Honeypot Protection **
 Default Django admin URL is hidden and replaced with a honeypot login page to prevent automated attacks.
 
-- Login Attempt Protection
+- <small>**Login Attempt Protection**</small>
 Limits repeated failed login attempts to mitigate brute-force attacks and temporarily blocks suspicious activity.
 
 - Email Verification
