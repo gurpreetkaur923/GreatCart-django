@@ -1,4 +1,4 @@
-🛒 Django eCommerce Platform
+# 🛒 Django eCommerce Platform #
 
 A full-stack eCommerce web application built with Django that simulates a real-world online store. The platform includes secure authentication, product reviews, shopping cart functionality, and PayPal payment integration.
 
