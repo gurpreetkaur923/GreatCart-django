@@ -4,30 +4,30 @@ A full-stack eCommerce web application built with Django that simulates a real-w
 
 This project demonstrates backend development, authentication security, payment integration, and scalable web architecture.
 
-🚀 Live Features
-👤 Authentication System
+# 🚀 Live Features #
+# 👤 Authentication System #
 
-User Registration
+** User Registration **
 
-Secure Login / Logout
+** Secure Login / Logout **
 
-Email Verification
+** Email Verification **
 
-Password Reset (Forgot Password)
+** Password Reset (Forgot Password) **
 
-Login Attempt Protection (Security)
+** Login Attempt Protection (Security) **
 
-🛍️ Shopping Experience
+# 🛍️ Shopping Experience #
 
-Browse products
+** Browse products **
 
-Product detail pages
+** Product detail pages **
 
-Add to cart
+** Add to cart **
 
-Remove from cart
+** Remove from cart **
 
-Cart persistence
+** Cart persistence **
 
 ⭐ Product Reviews
 
