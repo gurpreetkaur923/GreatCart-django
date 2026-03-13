@@ -9,95 +9,95 @@ This project demonstrates backend development, authentication security, payment 
 
 - User Registration 
 
-** Secure Login / Logout **
+- Secure Login / Logout 
 
-** Email Verification **
+- Email Verification 
 
-** Password Reset (Forgot Password) **
+- Password Reset (Forgot Password) 
 
-** Login Attempt Protection (Security) **
+- Login Attempt Protection (Security) 
 
 # 🛍️ Shopping Experience #
 
-** Browse products **
+- Browse products 
 
-** Product detail pages **
+- Product detail pages 
 
-** Add to cart **
+- Add to cart 
 
-** Remove from cart **
+- Remove from cart 
 
-** Cart persistence **
+- Cart persistence 
 
-⭐ Product Reviews
+# ⭐ Product Reviews #
 
-Users can leave product reviews
+- Users can leave product reviews
 
-Rating and feedback system
+- Rating and feedback system
 
-Review display on product pages
+- Review display on product pages
+ 
+# 💳 Payment Integration #
 
-💳 Payment Integration
+- Pay securely using PayPal
 
-Pay securely using PayPal
+- Checkout workflow
 
-Checkout workflow
+- Payment confirmation
 
-Payment confirmation
+# 📧 Email System #
 
-📧 Email System
+- Email verification during registration
 
-Email verification during registration
+- Password reset emails
 
-Password reset emails
+- Account security notifications
 
-Account security notifications
+# 🧠 Technical Highlights #
 
-🧠 Technical Highlights
+# This project demonstrates experience with:#
 
-This project demonstrates experience with:
+- Full-stack web development
 
-Full-stack web development
+- Django authentication system
 
-Django authentication system
+- Secure login attempt protection
 
-Secure login attempt protection
+- Payment gateway integration
 
-Payment gateway integration
+- Email verification workflows
 
-Email verification workflows
+- Database modeling
 
-Database modeling
+- MVC/MVT architecture
 
-MVC/MVT architecture
+- Session and cart management
 
-Session and cart management
+# 🛠️ Tech Stack #
+# Backend
 
-🛠️ Tech Stack
-Backend
+- Python
 
-Python
+- Django
 
-Django
+- Frontend
 
-Frontend
+- HTML5
 
-HTML5
+- CSS3
 
-CSS3
+- JavaScript
 
-JavaScript
+- Django Templates
 
-Django Templates
+- Database
 
-Database
+- SQLite (Development)
 
-SQLite (Development)
+- PostgreSQL compatible
 
-PostgreSQL compatible
+- Integrations
 
-Integrations
+- PayPal Payment API
 
-PayPal Payment API
-
-SMTP Email Service
+- SMTP Email Service
