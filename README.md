@@ -7,7 +7,7 @@ This project demonstrates backend development, authentication security, payment 
 # 🚀 Live Features #
 # 👤 Authentication System #
 
-** User Registration **
+- User Registration 
 
 ** Secure Login / Logout **
 
