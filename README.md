@@ -57,13 +57,13 @@ This project demonstrates backend development, authentication security, payment 
 
 The application includes several measures to protect users and admin accounts:
 
-- <small>**Admin Honeypot Protection**</small>
+- **Admin Honeypot Protection** <br>
 Default Django admin URL is hidden and replaced with a honeypot login page to prevent automated attacks.
 
-- <small>**Login Attempt Protection**</small>
+- **Login Attempt Protection**
 Limits repeated failed login attempts to mitigate brute-force attacks and temporarily blocks suspicious activity.
 
-- <small>**Email Verification**</small>
+- **Email Verification**
 Users must verify their email address during registration to prevent fake accounts.
 
 - **Secure Password Hashing**
