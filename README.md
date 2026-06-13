@@ -74,6 +74,8 @@ All passwords are hashed using Django’s secure authentication system.
 <p align="center">
   <img src="static/images/home.png" width="45%" />
   <img src="static/images/product.png" width="45%" />
+</p>
+<p align="center">
   <img src="static/images/sgnup.png" width="45%" />
   <img src="static/images/sign.png" width="45%" />
  
