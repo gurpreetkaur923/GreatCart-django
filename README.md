@@ -69,6 +69,16 @@ Users must verify their email address during registration to prevent fake accoun
 - **Secure Password Hashing** <br>
 All passwords are hashed using Django’s secure authentication system.
 
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="static/images/home.png" width="45%" />
+  <img src="static/images/product.png" width="45%" />
+  <img src="static/images/sgnup.png" width="45%" />
+  <img src="static/images/sign.png" width="45%" />
+ 
+</p>
+
 # 🧠 Technical Highlights #
 
 # This project demonstrates experience with:#
